@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:background="#FFA500"
+        android:text="checking"
+        android:alpha="0.75"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>
